@@ -14,6 +14,6 @@ Instructions to activate:
 
 
 Installations:
-npm install discord.js
-npm install dotenv
-npm install googleapis
+- $ npm install discord.js
+- $ npm install dotenv
+- $ npm install googleapis
