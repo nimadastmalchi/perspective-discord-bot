@@ -11,3 +11,9 @@ Instructions to activate:
           DISCORD_TOKEN="xxxx"
   - Once the bot is activated, you may see the commands available to you depending on your role permissions by 
     typing '!info' in any channel in the server (Administrative commands are available to some users).
+
+
+Installations:
+npm install discord.js
+npm install dotenv
+npm install googleapis
